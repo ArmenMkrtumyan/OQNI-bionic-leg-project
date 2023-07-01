@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.thenewstack.io/media/2020/11/81886a12-open-source-leg-university-michigan-2.jpg" width="200"/>
+  <img src="https://cdn.thenewstack.io/media/2020/11/81886a12-open-source-leg-university-michigan-2.jpg" width="600"/>
 </div>
 
 <h1 align="center">Data logger for Bionic Leg</h1>
