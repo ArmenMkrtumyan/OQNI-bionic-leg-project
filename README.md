@@ -4,11 +4,11 @@
 
 <h1 align="center">Data logger for Bionic Leg</h1>
 
-This project aims to develop a bionic leg prototype that incorporates advanced sensor technology and data analysis capabilities. The Python code provided in this repository creates a data logger with a graphical user interface (GUI) that can retrieve data from sensors, draw customizable graphs, and provide insights into the collected data.
+This project aims to develop a bionic leg prototype that incorporates advanced sensor technology and data analysis capabilities. The Python code provided in this repository creates a data logger with a graphical user interface (GUI) using the Tkinter library. The GUI allows users to retrieve data from sensors, draw customizable graphs, and gain insights into the collected data.
 
 ## Features
 
-- User-friendly GUI for data logging
+- User-friendly GUI built with Tkinter
 - Sensor data retrieval and analysis
 - Customizable graphing capabilities
 - Data insights and analysis tools
@@ -90,6 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The sensor technology and data analysis libraries used in this project.
 - The Python programming language and its rich ecosystem.
+- The Tkinter library for creating the graphical user interface.
 - The open-source community for sharing knowledge and resources.
 
 ## Contact
